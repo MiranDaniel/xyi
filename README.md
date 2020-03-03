@@ -9,7 +9,7 @@
 - [SC](#SC)
 - [setup](#setup)
 - [Tesseract](#tesseract)
-
+- [WriRead](#wriread)
 ---
 
 ## Contents
@@ -27,4 +27,10 @@
 > [Repository](https://github.com/MiranDaniel/tesseract)
  - ClosedSource, Full support, Full development, Full debugging
  ###### All rights reserved
+ 
+## WriRead
+> [Repository](https://github.com/MiranDaniel/wriread)
+ - ClosedSource, Full support, Full development, Full debugging
+ ###### All rights reserved
+
 
